@@ -7,7 +7,8 @@ This package proposes a language support for
 
 - Clone the repository in `~/.vscode/extensions`:\
 `git clone git@github.com:DylanMarinho/vscode-IMITATOR.git imitator-language`
-- Add the following instruction in the `.vscode/.extensions/extensions.json` file, before the end `]` and using your own `[USER]` name:
+- Add the following instruction in the `.vscode/.extensions/extensions.json`
+file, before the end `]` and using your own `[USER]` name:
 
 ```json
 {

@@ -71,7 +71,7 @@
 					},
 					{
 						"comment": "Actions declaration",
-						"begin": "actions",
+          "begin": "actions|synclabs",
 						"end": ";",
 						"beginCaptures": {
 							"0": {"name": "keyword.control"}
